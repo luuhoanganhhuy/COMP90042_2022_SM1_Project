@@ -84,6 +84,7 @@ ipython_config.py
 # Dataset
 project-data/
 
+<<<<<<< HEAD
 # Environments
 .env
 .venv
@@ -92,4 +93,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+=======
+*.dat
+>>>>>>> 0ebb338beecb7b5e7ab5dd1c2e6d186cfa65e4d9
 
